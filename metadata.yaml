@@ -1,10 +1,16 @@
 _repo: The-Messenger-of-the-Black-Prince_50193
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50193-h/images/cover.jpg
 creator:
   author:
     agent_name: Mawhinney, Thomas A. H.
     gutenberg_agent_id: '45744'
     url: http://www.gutenberg.org/2009/agents/45744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50193#The-Messenger-of-the-Black-Prince
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
